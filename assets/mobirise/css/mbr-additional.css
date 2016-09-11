@@ -1,12 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
 
 
+
+#header3-0 .mbr-section-title,
+#header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-0 H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 84px;
+}
+#header3-0 SMALL {
+  text-align: right;
+}
+#header3-0 SPAN {
+  text-align: left;
+}
+#header5-0 .mbr-section-title {
+  color: #000;
+}
+#header5-0 .mbr-section-lead {
+  color: #000000;
+  font-size: 24px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header5-0 .mbr-section-lead SPAN {
+  font-family: 'Raleway', sans-serif;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -73,17 +100,6 @@
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #000000;
-}
-#header5-0 .mbr-section-title {
-  color: #000;
-}
-#header5-0 .mbr-section-lead {
-  color: #000000;
-  font-size: 24px;
-  font-family: 'Oxygen', sans-serif;
-}
-#header5-0 .mbr-section-lead SPAN {
-  font-family: 'Raleway', sans-serif;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
