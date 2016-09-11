@@ -111,11 +111,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face-106x128-29.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-2.jpg",
               "height": 128,
               "alt": "Logo",
               "link": "index.html",
-              "title": "imdaz",
+              "title": "stickman",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -124,8 +124,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">imdaz</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programming.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DazB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cs.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -166,8 +166,33 @@
             "showButtons": false
           },
           "title": "<br><br>Hi. I'm Daz.",
-          "text": "<span style=\"font-style: normal;\"><br>Well, Daz isn't my actual name. That's <b>Dariush Bahri</b>. But Daz is easier, isn't it?<br><br>Anyway, now that we've been formally introduced, this is my website. Feel free to poke around.<br><br>Or don't.<br><br>It's up to you.<br><br>Or is it?<br><br>No it totally is.<br><br>But what if free will is just an illusion?<br><br>Nah it probably isn't. You can do what you want.<br><br>Or can you?<br><br>Just look around the bloody site.....</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">You're still here, aren't you?</span><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">There is nothing here for you.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Really, there isn't.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-style: normal;\">*sigh*</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Fine. Here's a dinosaur.<br><br></span><br>",
+          "text": "<span style=\"font-style: normal;\"><br>Well, Daz isn't my actual name. That's <b>Dariush Bahri</b>. But Daz is easier, isn't it?<br><br>Anyway, now that we've been formally introduced, this is my website. Feel free to poke around.<br><br>Or don't.<br><br>It's up to you.<br><br>Or is it?<br><br>No it totally is.<br><br>But what if free will is just an illusion?<br><br>Nah it probably isn't. You can do what you want.<br><br>Or can you?<br><br>Just look around the bloody site.....</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">You're still here, aren't you?</span><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">There is nothing here for you.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Really, there isn't.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-style: normal;\">*sigh*</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Fine. Here's a dinosaur.<br></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#efefef",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20160911-222136-1400x787-59.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
@@ -251,10 +276,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face-106x128-35.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20160911-221849-copy-227x128-85.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -264,8 +289,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">imdaz</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programming.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DazB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cs.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -402,10 +427,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face-106x128-87.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-93.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -415,8 +440,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">imdaz</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programming.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DazB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cs.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -558,7 +583,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/face-106x128-8.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-67.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -571,8 +596,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">imdaz</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"programming.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DazB</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cs.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
