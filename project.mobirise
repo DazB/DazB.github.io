@@ -39,102 +39,6 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "84px"
-            },
-            "SMALL": {
-              "text-align": "right"
-            },
-            "SPAN": {
-              "text-align": "left"
-            }
-          },
-          "_name": "header3",
-          "_anchor": "header3-0",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "0",
-            "bgColor": "#efefef",
-            "showMeta": false
-          },
-          "title": "<span style=\"color: inherit; line-height: 1.1;\"><br></span><span style=\"color: inherit; line-height: 1.1;\">Hi. I'm Daz</span><br>",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_name": "image2",
-          "_anchor": "image2-1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#efefef",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pic-1400x787-87.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-size": "24px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_name": "header5",
-          "_anchor": "header5-0",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "",
-          "text": "<span style=\"font-style: normal;\">Well, Daz isn't my actual name. That's <b>Dariush Bahri</b>. But Daz is easier, isn't it?<br><br>Anyway, now that we've been formally introduced, this is my website. Feel free to poke around.<br><br>Or don't.<br><br>It's up to you.<br><br>Or is it?<br><br>No it totally is.<br><br>But what if free will is just an illusion?<br><br>Nah it probably isn't. You can do what you want.<br><br>Or can you?<br><br>Just look around the bloody site.....</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">You're still here, aren't you?</span><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">There is nothing here for you.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">Really, there isn't.</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-style: normal;\">*sigh*</span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Fine. Here's a dinosaur.<br></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -207,11 +111,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stick1-174x128-51.png",
               "height": 128,
-              "alt": "Logo",
+              "alt": "Stickman",
               "link": "index.html",
-              "title": "stickman",
+              "title": "Daz",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -222,6 +126,70 @@
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DazB</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" style=\"display: inline !important;\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cs.html\"><span class=\"etl-icon icon-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Science Stuff&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\"><span class=\"etl-icon icon-edit mbr-iconfont mbr-iconfont-btn\"></span>Writing Stuff</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"comedy.html\"><span class=\"etl-icon icon-happy mbr-iconfont mbr-iconfont-btn\"></span>Comedy Stuff&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<h1><b>Hi. I'm Daz.</b></h1>",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "84px"
+            },
+            "H1": {
+              "font-size": "84px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pic-1400x787-87.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "Well, Daz isn't my actual name. That's Dariush Bahri. But Daz is easier, isn't it?<div><br></div><div>Anyway, now that we've been formally introduced, this is my website. Feel free to poke around.</div><div><br></div><div>Or don't.</div><div><br></div><div>It's up to you.</div><div><br></div><div>Or is it?</div><div><br></div><div>No it totally is.</div><div><br></div><div>Or is it?</div><div><br></div><div>What if free will is just an illusion?</div><div><br></div><div>Nah it probably isn't. You can do what you want.</div><div><br></div><div>Or can you?</div><div><br></div><div>Just look around the bloody site.....</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>You're still here, aren't you?</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>There is nothing here for you.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>Really, there isn't.</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>*sigh*</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>Fine. Here's a dinosaur.</div>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_name": "image2",
@@ -235,11 +203,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20160911-222136-1400x787-59.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dino1-1400x653-85.png",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Dino",
+              "title": "Steven The Dinosaur",
               "linkInNewWindow": false
             },
             "video": {
@@ -330,11 +298,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20160911-221849-copy-227x128-85.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stick1-174x128-69.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Stickman",
               "link": "index.html",
-              "title": "",
+              "title": "Stickman",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -481,11 +449,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-93.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stick1-174x128-14.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Who even reads this?",
               "link": "index.html",
-              "title": "",
+              "title": "Stickman still",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -637,11 +605,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20160911-221849-227x128-67.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stick1-174x128-51.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
+              "alt": "Stickman",
+              "link": "index.html",
+              "title": "Daz",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -697,7 +665,9 @@
           "_styles": {
             "P": {
               "font-size": "22px",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_anchor": "content1-1",
@@ -706,7 +676,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>When I'm not kicking it with rock stars or going out with models, I'm mostly studying Computer Science at <b><a href=\"https://www.cs.york.ac.uk/\" target=\"_blank\" class=\"text-black\">The University of York</a>.</b></p><p><br></p><p>So I'm mostly studying Computer Science at <a href=\"https://www.cs.york.ac.uk/\" target=\"_blank\" class=\"text-black\">The University of York</a>.</p><p><br></p><p>I'll add some stuff I've done later. Can't be bothered right now.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p>When I'm not kicking it with rock stars or going out with models, I'm mostly studying Computer Science at <a href=\"https://www.cs.york.ac.uk/\" target=\"_blank\" class=\"text-black\">The University of York</a><i style=\"font-weight: bold;\">.</i></p><p><br></p><p>So I'm mostly studying Computer Science at <a href=\"https://www.cs.york.ac.uk/\" target=\"_blank\" class=\"text-black\">The University of York</a>.</p><p><br></p><p>I'll add some stuff I've done later. Can't be bothered right now.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>"
         }
       ]
     }
